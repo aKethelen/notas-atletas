@@ -34,7 +34,7 @@ Digita Git: Clone, cola o link e escolhe a pasta de destino
 
 Quando o clone terminar, clica em “Abrir repositório”
 
-3️⃣ Criar e Editar o Arquivo Principal
+3️. Criar e Editar o Arquivo Principal
 
 Dentro da pasta do projeto, cria o arquivo:
 
